@@ -1,0 +1,26 @@
+This document describes the organization and use of the different directories and files:
+
+Respectively, each directory refers to the configuration of the gearhead for 1 reduction stage up to 4 stages. Inside such directories, the 3D model of the standard gearhead version available at catalog are included in the sub-directory named "Standard Shaft", while the 3D models of the special shaft versions are included in the directory called "Optional Shafts", for more information about the special shaft please refer to KSx options in the datasheet.
+
+Independently from the gearhead configuration, one extra directory (32GPT_motor_flanges) contains all 3D models of the different flanges necessary to couple the gearhead with specific motors as described here below.
+
+Gearhead 32-GPT requires a specific flange, as per combination with following motors:
+
+2250...BX4, 2444...B, 26xx...C(X)R, 2214...BXT, 3216...BXT and 2264...BP4
+please add 3D - file name: 32-GPT_flange_a
+
+3242...CR, 3257...CR, 32xx...BX4 and AM3248...10
+please add 3D - file name: 32-GPT_flange_b
+
+3056...B
+please add 3D - file name: 32-GPT_flange_c
+
+3564...B
+please add 3D - file name: 32-GPT_flange_d
+
+3272...CR, 38xx...CR,  and 3274...BP4
+please add 3D - file name: 32-GPT_flange_e
+
+(c) Copyright 2021, DR.FRITZ FAULHABER GMBH & CO.KG.
+All rights reserved.
+

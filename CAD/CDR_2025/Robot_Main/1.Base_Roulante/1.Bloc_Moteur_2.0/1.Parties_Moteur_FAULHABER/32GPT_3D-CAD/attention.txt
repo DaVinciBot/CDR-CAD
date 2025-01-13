@@ -1,0 +1,28 @@
+
+Wichtiger Hinweis
+_________________
+
+Bitte beachten Sie, dass bei einer Kombination aus Motor und Getriebe beide Komponenten zum Teil 
+durch einen spezifischen Flansch verbunden werden. Dieser Flansch ist ein separates 3D CAD 
+Modell! Die Gesamtlänge der Kombination (Motor + Flansch + Getriebe) können Sie dem Datenblatt 
+des jeweiligen Getriebes entnehmen.
+
+http://www.faulhaber.com
+
+(c) Copyright 2021, DR.FRITZ FAULHABER GMBH & CO.KG.
+Alle Rechte vorbehalten.
+
+
+----------------------------------------------------------------------------------------------------
+
+Important note
+______________
+
+Please note that with a combination of motor and gearhead, both components are connected in part 
+by a specific flange. This flange is a separate 3D CAD model! You can find out the entire 
+length of the combination (motor + flange + gearhead) on the data sheet for the respective gearhead.
+
+http://www.faulhaber.com
+
+(c) Copyright 2021, DR.FRITZ FAULHABER GMBH & CO.KG.
+All rights reserved.
