@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/1811976/1371776/2.50/11/4/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r140_40" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="15.748031496063" height="55.11811023622" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="23.622047244094" height="62.992125984251" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="15.748031496063" height="55.11811023622" />
+  </padstyle>
+  <padstyle name="c185_h132.85" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="52.303149606299">
+    <padshape layer="TOP" shape="round" width="72.83464566929" height="72.83464566929" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="80.708661417322" height="80.708661417322" />
+    <padshape layer="INNER" shape="round" width="72.83464566929" height="72.83464566929" />
+    <padshape layer="BOTTOM" shape="round" width="72.83464566929" height="72.83464566929" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="80.708661417322" height="80.708661417322" />
+  </padstyle>
+  <padstyle name="r190_175" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="68.897637795275" height="74.803149606298" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="76.771653543306" height="82.67716535433" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="68.897637795275" height="74.803149606298" />
+  </padstyle>
+  <padstyle name="r145_115" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="45.275590551181" height="57.086614173228" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="53.149606299212" height="64.960629921259" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="45.275590551181" height="57.086614173228" />
+  </padstyle>
+  <footprint name="USB307530A" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r140_40" originx="-51.181102362204" originy="104.33070866142" rotation="0" />
+    <pcbpin number="2" name="2" style="r140_40" originx="-25.590551181102" originy="104.33070866142" rotation="0" />
+    <pcbpin number="3" name="3" style="r140_40" originx="0" originy="104.33070866142" rotation="0" />
+    <pcbpin number="4" name="4" style="r140_40" originx="25.590551181102" originy="104.33070866142" rotation="0" />
+    <pcbpin number="5" name="5" style="r140_40" originx="51.181102362204" originy="104.33070866142" rotation="0" />
+    <pcbpin number="6" name="MH1" style="c185_h132.85" originx="-140.74803149606" originy="0" rotation="90" />
+    <pcbpin number="7" name="MH2" style="c185_h132.85" originx="140.74803149606" originy="0" rotation="90" />
+    <pcbpin number="8" name="MP1" style="r190_175" originx="-44.291338582677" originy="0" rotation="0" />
+    <pcbpin number="9" name="MP2" style="r190_175" originx="44.291338582677" originy="0" rotation="0" />
+    <pcbpin number="10" name="MP3" style="r145_115" originx="-91.338582677164" originy="87.79527559055" rotation="0" />
+    <pcbpin number="11" name="MP4" style="r145_115" originx="91.338582677164" originy="87.79527559055" rotation="0" />
+    <line layer="TOP_ASSEMBLY" originx="-153.54330708661" originy="110.23622047244" endx="153.54330708661" endy="110.23622047244" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="153.54330708661" originy="110.23622047244" endx="153.54330708661" endy="-84.645669291338" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="153.54330708661" originy="-84.645669291338" endx="-153.54330708661" endy="-84.645669291338" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-153.54330708661" originy="-84.645669291338" endx="-153.54330708661" endy="110.23622047244" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-213.18897637795" originy="171.25984251968" endx="213.18897637795" endy="171.25984251968" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="213.18897637795" originy="171.25984251968" endx="213.18897637795" endy="-124.01574803149" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="213.18897637795" originy="-124.01574803149" endx="-213.18897637795" endy="-124.01574803149" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-213.18897637795" originy="-124.01574803149" endx="-213.18897637795" endy="171.25984251968" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-134.84251968504" originy="110.23622047244" endx="-153.54330708661" endy="110.23622047244" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-153.54330708661" originy="110.23622047244" endx="-153.54330708661" endy="39.370078740157" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-153.54330708661" originy="-39.370078740157" endx="-153.54330708661" endy="-84.645669291338" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-153.54330708661" originy="-84.645669291338" endx="153.54330708661" endy="-84.645669291338" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="153.54330708661" originy="-84.645669291338" endx="153.54330708661" endy="-39.370078740157" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="121.06299212598" originy="110.23622047244" endx="153.54330708661" endy="110.23622047244" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="153.54330708661" originy="110.23622047244" endx="153.54330708661" endy="39.370078740157" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-59.055118110235" originy="150.5905511811" endx="-59.055118110235" endy="150.5905511811" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-61.023622047243" originy="150.5905511811" startangle=".0" sweepangle="180.0" radius="1.9685039370079" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-62.992125984251" originy="150.5905511811" endx="-62.992125984251" endy="150.5905511811" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-61.023622047243" originy="150.5905511811" startangle="180.0" sweepangle="180.0" radius="1.9685039370079" width="7.8740157480314" />
+  </footprint>
+  <symbol name="USB3075-30-A" originx="0" originy="0">
+    <line originx="200" originy="100" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-600" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-600" endx="200" endy="-600" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-600" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="-300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="4" />
+      <text name="pindes" originx="140" originy="-280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="200" originy="-400" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-400" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="5" />
+      <text name="pindes" originx="140" originy="-380" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="5" />
+    </sympin>
+    <sympin number="6" originx="200" originy="-500" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-500" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MH1" />
+      <text name="pindes" originx="140" originy="-480" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="MH1" />
+    </sympin>
+    <sympin number="7" originx="800" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="MH2" />
+      <text name="pindes" originx="860" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="MH2" />
+    </sympin>
+    <sympin number="8" originx="800" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="MP1" />
+      <text name="pindes" originx="860" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="MP1" />
+    </sympin>
+    <sympin number="9" originx="800" originy="-200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="MP2" />
+      <text name="pindes" originx="860" originy="-180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="MP2" />
+    </sympin>
+    <sympin number="10" originx="800" originy="-300" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-300" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="MP3" />
+      <text name="pindes" originx="860" originy="-280" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="MP3" />
+    </sympin>
+    <sympin number="11" originx="800" originy="-400" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="770" originy="-400" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="MP4" />
+      <text name="pindes" originx="860" originy="-380" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="MP4" />
+    </sympin>
+  </symbol>
+  <component name="USB3075-30-A" designatorprefix="J" height="106.29921259842" footprint="USB307530A">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="4" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="5" />
+    <comppin designator="MH1" sympin="6" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH1" />
+    <comppin designator="MH2" sympin="7" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH2" />
+    <comppin designator="MP1" sympin="8" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MP1" />
+    <comppin designator="MP2" sympin="9" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MP2" />
+    <comppin designator="MP3" sympin="10" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MP3" />
+    <comppin designator="MP4" sympin="11" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MP4" />
+    <attached_symbol gate="1" name="USB3075-30-A" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <pinmap designator="MH1" footprintpin="6" />
+    <pinmap designator="MH2" footprintpin="7" />
+    <pinmap designator="MP1" footprintpin="8" />
+    <pinmap designator="MP2" footprintpin="9" />
+    <pinmap designator="MP3" footprintpin="10" />
+    <pinmap designator="MP4" footprintpin="11" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://componentsearchengine.com/Datasheets/2/USB3075-30-A.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="GCT (GLOBAL CONNECTOR TECHNOLOGY) - USB3075-30-A - USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="GCT (GLOBAL CONNECTOR TECHNOLOGY)" />
+    <text name="Manufacturer_Part_Number" originx="850" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="USB3075-30-A" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="640-USB3075-30-A" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/GCT/USB3075-30-A?qs=KUoIvG%2F9IlbGMJplbp1ybA%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>

@@ -1,0 +1,19 @@
+.USB3075-30-A :1 ;GCT (GLOBAL CONNECTOR TECHNOLOGY) - USB3075-30-A - USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle
+USB307530A
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MH1 7=MH2 8=MP1 9=MP2 10=MP3 11=MP4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MH1" 7="MH2" 8="MP1" 9="MP2" 10="MP3" 11="MP4"
+*MXP 11
+*DFN USB3075-30-A
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB3075-30-A)
+~!Mouser Part Number (640-USB3075-30-A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB3075-30-A?qs=KUoIvG%2F9IlbGMJplbp1ybA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/USB3075-30-A.pdf)
+~!Height (2.7mm)
+~!3D_Model (USB3075-30-A)
+USB3075-30-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

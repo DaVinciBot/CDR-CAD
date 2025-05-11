@@ -1,0 +1,19 @@
+.ESP32-S3-WROOM-1-N16R8 :1 ;Multiprotocol Modules SMD Module, ESP32-S3R8, 3.3V, 8 MB Octal PSRAM Die, 16 MB Quad SPI Flash, PCB Antenna
+ESP32S3WROOM1N16R8
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="3V3" 3="EN" 4="IO4" 5="IO5" 6="IO6" 7="IO7" 8="IO15" 9="IO16" 10="IO17" 11="IO18" 12="IO8" 13="IO19" 14="IO20" 15="IO3" 16="IO46" 17="IO9" 18="IO10" 19="IO11" 20="IO12" 21="IO13" 22="IO14" 23="IO21" 24="IO47" 25="IO48" 26="IO45" 27="IO0" 28="IO35" 29="IO36" 30="IO37" 31="IO38" 32="IO39" 33="IO40" 34="IO41" 35="IO42" 36="RXD0" 37="TXD0" 38="IO2" 39="IO1" 40="GND_2" 41="GND_3" 42="GND_4" 43="GND_5" 44="GND_6" 45="GND_7" 46="GND_8" 47="GND_9" &
+48="GND_10" 49="GND_11"
+*MXP 49
+*DFN ESP32-S3-WROOM-1-N16R8
+~!Manufacturer_Name (Espressif Systems)
+~!Manufacturer_Part_Number (ESP32-S3-WROOM-1-N16R8)
+~!Mouser Part Number (356-ESP32S3WRM1N16R8)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N16R8?qs=Li%252BoUPsLEnvQc9gW6AMhZg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
+~!Height (3.25mm)
+~!3D_Model (ESP32-S3-WROOM-1-N16R8)
+ESP32-S3-WROOM-1-N16R8
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 

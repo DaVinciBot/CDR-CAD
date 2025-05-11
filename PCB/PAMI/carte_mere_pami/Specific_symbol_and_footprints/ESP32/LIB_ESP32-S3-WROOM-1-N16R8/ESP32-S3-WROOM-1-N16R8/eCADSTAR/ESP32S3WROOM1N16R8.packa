@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-S3-WROOM-1-N16R8"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-02-09-14:26:40)
+    (mountForm default
+        (footprintRef "ESP32S3WROOM1N16R8")
+        (spec "System")
+    )
+)

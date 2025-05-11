@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=BAT20JFILM
+PartCategory=Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=2.1
+Released=2015-11-13 09:54:32
+Downloaded=2024-04-27 08:25:46
+3D=Y
