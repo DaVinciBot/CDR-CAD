@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BAT20JFILM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-01-10:41:11)
+    (mountForm default
+        (footprintRef "SOD2512X113N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,117 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PTS810SJM250SMTRLFS"
+   (description "PTS810SJM250SMTRLFS (Tactile Switches)")
+   (family "SWI")
+   (package "PTS810SJG250SMTRLFS")
+   (attribute "Datasheet Link" "https://www.ckswitches.com/media/1476/pts810.pdf")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "PTS810SJM250SMTRLFS")
+   (attribute "Mouser Part Number" "611-PTS810SJM250SMTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS810SJM250SMTRLFS?qs=UxeAxwACbqnyNdXLIf%2FqnQ%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "PTS810SJM250SMTRLFS")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "PTS810SJM250SMTRLFS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PTS810SJG250SMTRLFS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.1 1.6)
+      (pt 2.1 1.6)
+      (pt 2.1 -1.6)
+      (pt -2.1 -1.6)
+      (pt -2.1 1.6))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.1 2.6)
+      (pt 3.6 2.6)
+      (pt 3.6 -2.6)
+      (pt -4.1 -2.6)
+      (pt -4.1 2.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.1 1.6)
+      (pt 2.075 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.1 -1.6)
+      (pt 2.075 -1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3 1.2)
+      (arc (pt -3.000 1.200) (pt -3.100 1.000) (pt -2.900 1.200) (start -180.0) (sweep 90.0))
+      (pt -3 1)
+      (arc (pt -3.000 1.000) (pt -3.100 1.000) (pt -2.900 1.200) (start -180.0) (sweep -90.0))
+      (pt -3 1.2))))
+   (leg 1 (pt -2.075 1.075) (padstack 0))
+   (leg 2 (pt 2.075 1.075) (padstack 0))
+   (leg 3 (pt -2.075 -1.075) (padstack 0))
+   (leg 4 (pt 2.075 -1.075) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.650 1.050 0 0 0.000))
+   )
+  )
+ )
+)
