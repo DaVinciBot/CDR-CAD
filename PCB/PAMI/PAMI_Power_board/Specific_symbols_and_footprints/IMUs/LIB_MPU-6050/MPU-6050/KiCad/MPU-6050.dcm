@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPU-6050
+D IMUs - Inertial Measurement Units 6-Axis MEMS MotionTracking  Device with DMP
+K
+F https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6000-datasheet1.pdf
+$ENDCMP
+#
+#End Doc Library

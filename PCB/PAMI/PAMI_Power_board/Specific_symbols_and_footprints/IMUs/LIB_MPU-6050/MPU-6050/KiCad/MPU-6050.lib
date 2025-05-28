@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MPU-6050
+#/13657988/1371776/2.50/25/2/Integrated Circuit
+DEF MPU-6050 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 700 50 H V L CNN
+F1 "MPU-6050" 1050 600 50 H V L CNN
+F2 "MPU6050" 1050 500 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6000-datasheet1.pdf" 1050 400 50 H I L CNN
+F4 "IMUs - Inertial Measurement Units 6-Axis MEMS MotionTracking  Device with DMP" 1050 300 50 H I L CNN "Description"
+F5 "0.95" 1050 200 50 H I L CNN "Height"
+F6 "TDK" 1050 100 50 H I L CNN "Manufacturer_Name"
+F7 "MPU-6050" 1050 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "410-MPU-6050" 1050 -100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/MPU-6050?qs=u4fy%2FsgLU9O14B5JgyQFvg%3D%3D" 1050 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "MPU-6050" 1050 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mpu-6050/invensense?region=nac" 1050 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CLKIN 1 0 0 200 R 50 50 0 0 P
+X NC_1 2 0 -100 200 R 50 50 0 0 P
+X NC_2 3 0 -200 200 R 50 50 0 0 P
+X NC_3 4 0 -300 200 R 50 50 0 0 P
+X NC_4 5 0 -400 200 R 50 50 0 0 P
+X AUX_DA 6 0 -500 200 R 50 50 0 0 P
+X AUX_CL 7 300 -1200 200 U 50 50 0 0 P
+X VLOGIC 8 400 -1200 200 U 50 50 0 0 P
+X AD0 9 500 -1200 200 U 50 50 0 0 P
+X REGOUT 10 600 -1200 200 U 50 50 0 0 P
+X FSYNC 11 700 -1200 200 U 50 50 0 0 P
+X INT 12 800 -1200 200 U 50 50 0 0 P
+X VDD 13 1200 -500 200 L 50 50 0 0 P
+X NC_5 14 1200 -400 200 L 50 50 0 0 P
+X NC_6 15 1200 -300 200 L 50 50 0 0 P
+X NC_7 16 1200 -200 200 L 50 50 0 0 P
+X NC_8 17 1200 -100 200 L 50 50 0 0 P
+X GND 18 1200 0 200 L 50 50 0 0 P
+X RESV_1 19 900 700 200 D 50 50 0 0 P
+X CPOUT 20 800 700 200 D 50 50 0 0 P
+X RESV_2 21 700 700 200 D 50 50 0 0 P
+X RESV_3 22 600 700 200 D 50 50 0 0 P
+X SCL 23 500 700 200 D 50 50 0 0 P
+X SDA 24 400 700 200 D 50 50 0 0 P
+X EP 25 300 700 200 D 50 50 0 0 P
+P 5 0 1 6 200 500 1000 500 1000 -1000 200 -1000 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

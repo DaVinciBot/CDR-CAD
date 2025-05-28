@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=IMB03ITS
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=4
+Version=2.4
+Released=2024-03-19 12:02:04
+Downloaded=2024-04-20 22:13:48
+3D=Y

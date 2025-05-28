@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MPU_6050'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "IOUT_MAX", "IOUT_MIN", "IGND", "RCA", "RJC", "TECHNOLOGY", "VDD_MAX", "VDD_MIN", "IDD", "IDDQ";
+{========================================================================================}
+ "TDK", "MPU-6050" (!) = "", "MPU6050", "Other", "410-MPU-6050", "https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/MPU-6050?qs=u4fy%2FsgLU9O14B5JgyQFvg%3D%3D", "MPU-6050", "https://www.arrow.com/en/products/mpu-6050/invensense?region=nac", "IMUs - Inertial Measurement Units 6-Axis MEMS MotionTracking  Device with DMP", "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6000-datasheet1.pdf", "0.95 mm", "105", "", "", "", "MOTION INTERFACE QUAD FLAT NO-LEAD", "QFN-24", "", "", "", "", "", "", "", "", "", "", ""
+END_PART
+
+END.

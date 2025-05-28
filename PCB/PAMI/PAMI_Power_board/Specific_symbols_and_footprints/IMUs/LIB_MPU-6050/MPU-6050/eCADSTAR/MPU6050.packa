@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MPU-6050"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-10-06:24:00)
+    (mountForm default
+        (footprintRef "MPU6050")
+        (spec "System")
+    )
+)

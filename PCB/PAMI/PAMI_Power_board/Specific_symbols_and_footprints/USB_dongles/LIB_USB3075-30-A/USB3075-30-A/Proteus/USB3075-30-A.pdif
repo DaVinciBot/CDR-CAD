@@ -1,0 +1,205 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "USB3075-30-A"
+   (description "GCT (GLOBAL CONNECTOR TECHNOLOGY) - USB3075-30-A - USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle")
+   (family "CON")
+   (package "USB307530A")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/USB3075-30-A.pdf")
+   (attribute "Geometry.Height" "2.7mm")
+   (attribute "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)")
+   (attribute "Manufacturer_Part_Number" "USB3075-30-A")
+   (attribute "Mouser Part Number" "640-USB3075-30-A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/USB3075-30-A?qs=KUoIvG%2F9IlbGMJplbp1ybA%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "USB3075-30-A")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+    (pin "MP3" MP3 PS)
+    (pin "MP4" MP4 PS)
+   )
+  )
+  (symbol "USB3075-30-A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "USB307530A"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.9 2.8)
+      (pt 3.9 2.8)
+      (pt 3.9 -2.15)
+      (pt -3.9 -2.15)
+      (pt -3.9 2.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.415 4.35)
+      (pt 5.415 4.35)
+      (pt 5.415 -3.15)
+      (pt -5.415 -3.15)
+      (pt -5.415 4.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.425 2.8)
+      (pt -3.9 2.8)
+      (pt -3.9 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.9 -1)
+      (pt -3.9 -2.15)
+      (pt 3.9 -2.15)
+      (pt 3.9 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 3.075 2.8)
+      (pt 3.9 2.8)
+      (pt 3.9 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 3.825)
+      (arc (pt -1.500 3.825) (pt -1.600 3.775) (pt -1.500 3.875) (start 180.0) (sweep .0))
+      (pt -1.6 3.825)
+      (arc (pt -1.600 3.825) (pt -1.600 3.775) (pt -1.500 3.875) (start 180.0) (sweep 180.0))
+      (pt -1.5 3.825))))
+   (leg 1 (pt -1.300 2.650) (padstack 0))
+   (leg 2 (pt -0.650 2.650) (padstack 0))
+   (leg 3 (pt 0.000 2.650) (padstack 0))
+   (leg 4 (pt 0.650 2.650) (padstack 0))
+   (leg 5 (pt 1.300 2.650) (padstack 0))
+   (leg MH1 (pt -3.575 0.000) (padstack 6))
+   (leg MH2 (pt 3.575 0.000) (padstack 7))
+   (leg MP1 (pt -1.125 0.000) (padstack 8))
+   (leg MP2 (pt 1.125 0.000) (padstack 9))
+   (leg MP3 (pt -2.320 2.230) (padstack 10))
+   (leg MP4 (pt 2.320 2.230) (padstack 11))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 1.400 0 0 90.000))
+   )
+   (padstack 6
+    (hole 1.3285)
+    (plated true)
+    (pad (layer TCOP) (round 1.850))
+    (pad (layer INNER) (round 1.850))
+    (pad (layer BCOP) (round 1.850))
+   )
+   (padstack 7
+    (hole 1.3285)
+    (plated true)
+    (pad (layer TCOP) (round 1.850))
+    (pad (layer INNER) (round 1.850))
+    (pad (layer BCOP) (round 1.850))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 1.750 1.900 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 1.750 1.900 0 0 90.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 1.150 1.450 0 0 90.000))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 1.150 1.450 0 0 90.000))
+   )
+   (model "USB3075-30-A.stp"
+    (euler 90 0 0)
+    (offset 0 0.4699999988079071 1.0700000524520874)
+   )
+  )
+ )
+)

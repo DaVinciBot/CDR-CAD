@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CMT052575SMTTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CMT052575SMTTR")
+        (spec "default")
+    )
+)

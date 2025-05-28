@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TB6612FNG_C_8_EL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "Toshiba", "TB6612FNG,C,8,EL" (!) = "", "SOP65P760X160-24N", "Small Outline Packages", "757-TB6612FNGC8EL", "https://www.mouser.co.uk/ProductDetail/Toshiba/TB6612FNGC8EL?qs=rsevcuukUAy2UalRuv4E%2FQ%3D%3D", "TB6612FNG,C,8,EL", "https://www.arrow.com/en/products/tb6612fngc8el/toshiba?region=nac", "otor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC", "http://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG", "1.6 mm", "85", "", "0.78", "0.013", "DUAL DC MOTOR DRIVER SMD", "SSOP-24", "160", "", "", "", "", "2.2m", "", "", "", "", "CMOS"
+END_PART
+
+END.

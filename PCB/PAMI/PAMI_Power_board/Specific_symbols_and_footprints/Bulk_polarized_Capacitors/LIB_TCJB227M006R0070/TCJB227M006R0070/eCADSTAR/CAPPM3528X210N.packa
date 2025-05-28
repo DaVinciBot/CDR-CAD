@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCJB227M006R0070"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-16-11:04:25)
+    (mountForm default
+        (footprintRef "CAPPM3528X210N")
+        (spec "System")
+    )
+)

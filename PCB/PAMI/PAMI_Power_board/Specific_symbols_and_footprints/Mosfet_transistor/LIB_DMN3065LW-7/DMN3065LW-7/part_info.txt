@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=DMN3065LW-7
+PartCategory=Transistor
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=5.1
+Released=2017-06-27 05:17:43
+Downloaded=2024-04-22 06:58:47
+3D=Y

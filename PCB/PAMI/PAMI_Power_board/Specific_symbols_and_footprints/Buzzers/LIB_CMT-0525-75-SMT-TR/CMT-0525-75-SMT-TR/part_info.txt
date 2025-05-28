@@ -1,0 +1,9 @@
+Manufacturer=CUI Devices
+PartNumber=CMT-0525-75-SMT-TR
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=3
+Version=1.4
+Released=2020-08-31 14:55:29
+Downloaded=2024-04-25 02:36:50
+3D=Y

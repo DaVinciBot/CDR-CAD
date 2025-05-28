@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSAL6200
+D Infrared LED 5mm 940nm 17deg Vishay TSAL6200 IR LED, 940nm, T-1 3/4 (5mm) Through Hole package
+K
+F http://www.vishay.com/docs/81010/tsal6200.pdf
+$ENDCMP
+#
+#End Doc Library

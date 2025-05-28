@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ASCKCG00-NW5X5020302"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-12-08-04:51:02)
+    (mountForm default
+        (footprintRef "ASCKCG00NW5X5020302")
+        (spec "System")
+    )
+)

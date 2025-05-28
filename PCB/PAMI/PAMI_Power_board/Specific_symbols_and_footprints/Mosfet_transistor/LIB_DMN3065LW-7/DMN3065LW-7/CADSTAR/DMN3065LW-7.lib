@@ -1,0 +1,18 @@
+.DMN3065LW-7 :1 ;Diodes Inc DMN3065LW-7 N-channel MOSFET Transistor, 4 A, 30 V, 3-Pin SOT-323
+SOT65P210X110-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN DMN3065LW-7
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMN3065LW-7)
+~!Mouser Part Number (621-DMN3065LW7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN3065LW-7?qs=JtunSoW0QGGjls1HwhS7gQ%3D%3D)
+~!Arrow Part Number (DMN3065LW-7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/dmn3065lw-7/diodes-incorporated)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMN3065LW.pdf)
+~!Height (1.1mm)
+~!3D_Model (DMN3065LW-7)
+DMN3065LW-7
+1.1!U 2.1!U 3.1!U 

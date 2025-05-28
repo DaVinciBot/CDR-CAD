@@ -1,0 +1,119 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BAT20JFILM"
+   (description "BAT20JFILM, Schottky Diode,  1A max, 23V, 2-Pin, SOD-323")
+   (family "DIO")
+   (package "SOD2512X113N")
+   (attribute "Datasheet Link" "http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf")
+   (attribute "Geometry.Height" "1.13mm")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "BAT20JFILM")
+   (attribute "Mouser Part Number" "511-BAT20JFILM")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAT20JFILM?qs=6cWmAGMIEBzKXM4JcoRdbw%3D%3D")
+   (attribute "Arrow Part Number" "BAT20JFILM")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/bat20jfilm/stmicroelectronics?region=nac")
+   (gate
+    (symbol "BAT20JFILM")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "BAT20JFILM"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOD2512X113N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.975 1.15)
+      (pt 1.975 1.15)
+      (pt 1.975 -1.15)
+      (pt -1.975 -1.15)
+      (pt -1.975 1.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.83 0.615)
+      (pt 0.83 0.615)
+      (pt 0.83 -0.615)
+      (pt -0.83 -0.615)
+      (pt -0.83 0.615))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.83 0.06)
+      (pt -0.275 0.615))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.695 0.615)
+      (pt 0.83 0.615))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.83 -0.615)
+      (pt 0.83 -0.615))))
+   (leg 1 (pt -1.14 0) (padstack 0))
+   (leg 2 (pt 1.14 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.55 1.11 0 0 0))
+   )
+   (model "BAT20JFILM.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

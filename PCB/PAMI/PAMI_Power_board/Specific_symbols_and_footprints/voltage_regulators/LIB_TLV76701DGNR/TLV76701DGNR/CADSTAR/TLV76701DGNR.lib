@@ -1,0 +1,18 @@
+.TLV76701DGNR :1 ;Linear Voltage Regulators Adjustable- and fixed-output, 1-A, 16-V, positive-voltage low-dropout (LDO) linear regulator 8-HVSSOP -40 to 125
+SOP65P490X110-9N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="FB" 3="NC_1" 4="GND_1" 5="EN" 6="GND_2" 7="NC_2" 8="IN" 9="EP"
+*MXP 9
+*DFN TLV76701DGNR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TLV76701DGNR)
+~!Mouser Part Number (595-TLV76701DGNR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV76701DGNR?qs=QNEnbhJQKvYlzprjZl22mQ%3D%3D)
+~!Arrow Part Number (TLV76701DGNR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tlv76701dgnr/texas-instruments?region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tlv767.pdf?ts=1634721803014&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTLV767)
+~!Height (1.1mm)
+~!3D_Model (TLV76701DGNR)
+TLV76701DGNR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

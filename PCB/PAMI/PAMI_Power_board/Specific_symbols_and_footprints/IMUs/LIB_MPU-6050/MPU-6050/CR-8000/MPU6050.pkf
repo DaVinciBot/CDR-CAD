@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MPU6050"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MPU6050")
+        (spec "default")
+    )
+)

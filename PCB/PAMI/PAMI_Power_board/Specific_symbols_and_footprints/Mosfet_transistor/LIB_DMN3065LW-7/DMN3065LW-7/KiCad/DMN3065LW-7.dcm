@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN3065LW-7
+D Diodes Inc DMN3065LW-7 N-channel MOSFET Transistor, 4 A, 30 V, 3-Pin SOT-323
+K
+F https://www.diodes.com//assets/Datasheets/DMN3065LW.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,19 @@
+.SS312SAH4 :1 ;Switch Slide ON None ON SPDT Side Slide 0.1A 28VAC 28VDC 0.4VA 10000Cycles Gull Wing SMD Tray
+SS312SAH4
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=MP1 5=MP2
+*PLB 1="NO" 2="COM" 3="NC" 4="MP1" 5="MP2"
+*MXP 5
+*DFN SS312SAH4
+~!Manufacturer_Name (NKK Switches)
+~!Manufacturer_Part_Number (SS312SAH4)
+~!Mouser Part Number (633-SS312SAH4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NKK-Switches/SS312SAH4?qs=uLkOX%2FxhRHP3U%2FCEVkPTBA%3D%3D)
+~!Arrow Part Number (SS312SAH4)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss312sah4/nkk-switches?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SS312SAH4.pdf)
+~!Height (3.05mm)
+~!3D_Model (SS312SAH4)
+SS312SAH4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

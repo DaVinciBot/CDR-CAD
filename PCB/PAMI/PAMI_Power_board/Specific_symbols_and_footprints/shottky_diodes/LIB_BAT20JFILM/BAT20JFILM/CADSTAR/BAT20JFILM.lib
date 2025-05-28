@@ -1,0 +1,18 @@
+.BAT20JFILM :1 ;BAT20JFILM, Schottky Diode,  1A max, 23V, 2-Pin, SOD-323
+SOD2512X113N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN BAT20JFILM
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (BAT20JFILM)
+~!Mouser Part Number (511-BAT20JFILM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAT20JFILM?qs=6cWmAGMIEBzKXM4JcoRdbw%3D%3D)
+~!Arrow Part Number (BAT20JFILM)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bat20jfilm/stmicroelectronics?region=nac)
+~!Link Datasheet (http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf)
+~!Height (1.13mm)
+~!3D_Model (BAT20JFILM)
+BAT20JFILM
+1.1!U 2.1!U 

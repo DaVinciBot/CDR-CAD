@@ -1,0 +1,150 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "IMB03ITS"
+   (description "Body Features: Product Weight .75 G | Product Weight .026 OZ | Insulation Special Features 2500V Initial Surge Withstand Voltage between Contacts & Coil | Contact Features: Contact Base Material AgNi | Contact Number of Poles 1 | Contact Current Rating (Max) 2 AMP | Contact Special Features Single Contact | Contact Arrangement 1 Form A (NO) | Contact Plating Material Gold | Contact Current Class 0  2 AMP | Dimensions: Product Length 10 MM | Height Class (Mechanical) 0  6 MM | Width Class (Mechanical) ")
+   (family "RLY")
+   (package "IMB03ITS")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98024&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1462041-5&DocFormat=pdf")
+   (attribute "Geometry.Height" "5.4mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "IMB03ITS")
+   (attribute "Mouser Part Number" "655-IMB03ITS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Axicom/IMB03ITS?qs=3Rah4i%252BhyCFsQhVklEYOng%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "IMB03ITS")
+    (pin "COIL+" 1 PS)
+    (pin "COM" 3 PS)
+    (pin "NO" 6 PS)
+    (pin "COIL-" 8 PS)
+   )
+  )
+  (symbol "IMB03ITS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "IMB03ITS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.2 5.54)
+      (pt 8.8 5.54)
+      (pt 8.8 -0.46)
+      (pt -1.2 -0.46)
+      (pt -1.2 5.54))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 6.68)
+      (pt 9.8 6.68)
+      (pt 9.8 -1.6)
+      (pt -2.2 -1.6)
+      (pt -2.2 6.68))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1 5.54)
+      (pt -1.2 5.54)
+      (pt -1.2 -0.46)
+      (pt -1 -0.46))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6.4 -0.46)
+      (pt 8.8 -0.46)
+      (pt 8.8 5.54)
+      (pt 6.4 5.54))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1 5.54)
+      (pt 4.4 5.54))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1 -0.46)
+      (pt 4.4 -0.46))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -1.06)
+      (arc (pt 0.000 -1.060) (pt -0.050 -1.160) (pt 0.050 -1.060) (start 180.0) (sweep 90.0))
+      (pt -0 -1.16)
+      (arc (pt -0.000 -1.160) (pt -0.050 -1.160) (pt 0.050 -1.060) (start 180.0) (sweep -90.0))
+      (pt -0 -1.06))))
+   (leg 1 (pt -0.000 0.000) (padstack 1))
+   (leg 3 (pt 5.400 0.000) (padstack 0))
+   (leg 6 (pt 5.400 5.080) (padstack 0))
+   (leg 8 (pt -0.000 5.080) (padstack 0))
+   (padstack 0
+    (hole 0.75)
+    (plated true)
+    (pad (layer TCOP) (round 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (round 1.200))
+   )
+   (padstack 1
+    (hole 0.75)
+    (plated true)
+    (pad (layer TCOP) (square 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (square 1.200))
+   )
+   (model "IMB03ITS.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

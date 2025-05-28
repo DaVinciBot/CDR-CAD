@@ -1,0 +1,18 @@
+.TCJB227M006R0070 :1 ;AVX - TCJB227M006R0070. - CAPACITOR, TANTALUM POLYMER, 220UF, 6.3V, 1210
+CAPPM3528X210N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN TCJB227M006R0070
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (TCJB227M006R0070)
+~!Mouser Part Number (581-TCJB227M006R0070)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=581-TCJB227M006R0070)
+~!Arrow Part Number (TCJB227M006R0070)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tcjb227m006r0070/avx)
+~!Link Datasheet (http://datasheets.avx.com/TCJ.pdf)
+~!Height (2.1mm)
+~!3D_Model (TCJB227M006R0070)
+TCJB227M006R0070
+1.1!U 2.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TLV76701DGNR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-13-11:23:59)
+    (mountForm default
+        (footprintRef "SOP65P490X110-9N")
+        (spec "System")
+    )
+)

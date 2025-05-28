@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCJB227M006R0070
+D AVX - TCJB227M006R0070. - CAPACITOR, TANTALUM POLYMER, 220UF, 6.3V, 1210
+K
+F http://datasheets.avx.com/TCJ.pdf
+$ENDCMP
+#
+#End Doc Library

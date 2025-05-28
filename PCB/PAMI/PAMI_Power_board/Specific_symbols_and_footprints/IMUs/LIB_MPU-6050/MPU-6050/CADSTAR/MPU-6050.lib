@@ -1,0 +1,18 @@
+.MPU-6050 :1 ;IMUs - Inertial Measurement Units 6-Axis MEMS MotionTracking  Device with DMP
+MPU6050
+*STM IC
+*NGS
+*PLB 1="CLKIN" 2="NC_1" 3="NC_2" 4="NC_3" 5="NC_4" 6="AUX_DA" 7="AUX_CL" 8="VLOGIC" 9="AD0" 10="REGOUT" 11="FSYNC" 12="INT" 13="VDD" 14="NC_5" 15="NC_6" 16="NC_7" 17="NC_8" 18="GND" 19="RESV_1" 20="CPOUT" 21="RESV_2" 22="RESV_3" 23="SCL" 24="SDA" 25="EP"
+*MXP 25
+*DFN MPU-6050
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (MPU-6050)
+~!Mouser Part Number (410-MPU-6050)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/MPU-6050?qs=u4fy%2FsgLU9O14B5JgyQFvg%3D%3D)
+~!Arrow Part Number (MPU-6050)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mpu-6050/invensense?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6000-datasheet1.pdf)
+~!Height (0.95mm)
+~!3D_Model (MPU-6050)
+MPU-6050
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 

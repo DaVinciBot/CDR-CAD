@@ -1,0 +1,18 @@
+.S2751-46R :1 ;Circuit Board Hardware - PCB SMT Mini Test Terminal, Reel
+S275146R
+*STM TP
+*NGS
+*PLB 1="1"
+*MXP 1
+*DFN S2751-46R
+~!Manufacturer_Name (Harwin)
+~!Manufacturer_Part_Number (S2751-46R)
+~!Mouser Part Number (855-S2751-46R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Harwin/S2751-46R?qs=DaxoyN%2FvrebM3VuuS3MPNA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://cdn.harwin.com/pdfs/S2751R.pdf)
+~!Height (1.5mm)
+~!3D_Model (S2751-46R)
+S2751-46R
+1.1!U 

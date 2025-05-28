@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=MPU-6050
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=25
+Version=4.3
+Released=2021-04-20 09:43:51
+Downloaded=2024-04-22 19:27:40
+3D=Y

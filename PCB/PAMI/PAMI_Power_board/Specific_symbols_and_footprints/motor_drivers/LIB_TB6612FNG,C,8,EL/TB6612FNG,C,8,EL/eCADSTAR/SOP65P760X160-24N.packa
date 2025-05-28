@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TB6612FNG_C_8_EL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "SOP65P760X160-24N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS312SAH4
+D Switch Slide ON None ON SPDT Side Slide 0.1A 28VAC 28VDC 0.4VA 10000Cycles Gull Wing SMD Tray
+K
+F https://componentsearchengine.com/Datasheets/1/SS312SAH4.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/767391/1371776/2.50/1/2/Test Point/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r220_140" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="55.11811023622" height="86.614173228345" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="62.992125984251" height="94.488188976377" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="55.11811023622" height="86.614173228345" />
+  </padstyle>
+  <footprint name="S275146R" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r220_140" originx="0" originy="0" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-39.370078740157" originy="23.622047244094" endx="39.370078740157" endy="23.622047244094" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="39.370078740157" originy="23.622047244094" endx="39.370078740157" endy="-23.622047244094" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="39.370078740157" originy="-23.622047244094" endx="-39.370078740157" endy="-23.622047244094" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-39.370078740157" originy="-23.622047244094" endx="-39.370078740157" endy="23.622047244094" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-51.181102362204" originy="33.464566929133" endx="51.181102362204" endy="33.464566929133" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="51.181102362204" originy="33.464566929133" endx="51.181102362204" endy="-33.464566929133" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="51.181102362204" originy="-33.464566929133" endx="-51.181102362204" endy="-33.464566929133" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-51.181102362204" originy="-33.464566929133" endx="-51.181102362204" endy="33.464566929133" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-90.551181102361" originy="72.83464566929" endx="90.551181102361" endy="72.83464566929" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="90.551181102361" originy="72.83464566929" endx="90.551181102361" endy="-72.83464566929" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="90.551181102361" originy="-72.83464566929" endx="-90.551181102361" endy="-72.83464566929" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-90.551181102361" originy="-72.83464566929" endx="-90.551181102361" endy="72.83464566929" width="3.9370078740157" />
+  </footprint>
+  <symbol name="S2751-46R" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-100" endx="200" endy="-100" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-100" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+  </symbol>
+  <component name="S2751-46R" designatorprefix="TP" height="59.055118110235" footprint="S275146R">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <attached_symbol gate="1" name="S2751-46R" />
+    <pinmap designator="1" footprintpin="1" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://cdn.harwin.com/pdfs/S2751R.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Circuit Board Hardware - PCB SMT Mini Test Terminal, Reel" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Harwin" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="S2751-46R" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="855-S2751-46R" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Harwin/S2751-46R?qs=DaxoyN%2FvrebM3VuuS3MPNA%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>

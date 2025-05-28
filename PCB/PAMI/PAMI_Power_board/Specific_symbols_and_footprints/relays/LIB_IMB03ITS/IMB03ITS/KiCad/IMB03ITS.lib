@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model IMB03ITS
+#/18020300/1371776/2.50/4/2/Relay or Contactor
+DEF IMB03ITS K 0 30 Y Y 1 F N
+F0 "K" 950 300 50 H V L CNN
+F1 "IMB03ITS" 950 200 50 H V L CNN
+F2 "IMB03ITS" 950 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98024&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1462041-5&DocFormat=pdf" 950 0 50 H I L CNN
+F4 "Body Features: Product Weight .75 G | Product Weight .026 OZ | Insulation Special Features 2500V Initial Surge Withstand Voltage between Contacts & Coil | Contact Features: Contact Base Material AgNi | Contact Number of Poles 1 | Contact Current Rating (Max) 2 AMP | Contact Special Features Single Contact | Contact Arrangement 1 Form A (NO) | Contact Plating Material Gold | Contact Current Class 0  2 AMP | Dimensions: Product Length 10 MM | Height Class (Mechanical) 0  6 MM | Width Class (Mechanical) " 950 -100 50 H I L CNN "Description"
+F5 "5.4" 950 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "IMB03ITS" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "655-IMB03ITS" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Axicom/IMB03ITS?qs=3Rah4i%252BhyCFsQhVklEYOng%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X COIL+ 1 0 -100 200 R 50 50 0 0 P
+X COM 3 1100 -100 200 L 50 50 0 0 P
+X NO 6 1100 0 200 L 50 50 0 0 P
+X COIL- 8 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

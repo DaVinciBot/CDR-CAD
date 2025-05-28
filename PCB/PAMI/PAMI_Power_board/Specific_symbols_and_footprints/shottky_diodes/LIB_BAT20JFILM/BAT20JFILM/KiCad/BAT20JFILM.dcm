@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT20JFILM
+D BAT20JFILM, Schottky Diode,  1A max, 23V, 2-Pin, SOD-323
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf
+$ENDCMP
+#
+#End Doc Library
