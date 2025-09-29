@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IMB03ITS"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IMB03ITS")
+        (spec "default")
+    )
+)

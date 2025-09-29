@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS312SAH4'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NKK Switches", "SS312SAH4" (!) = "", "SS312SAH4", "Other", "633-SS312SAH4", "https://www.mouser.co.uk/ProductDetail/NKK-Switches/SS312SAH4?qs=uLkOX%2FxhRHP3U%2FCEVkPTBA%3D%3D", "SS312SAH4", "https://www.arrow.com/en/products/ss312sah4/nkk-switches?region=nac", "Switch Slide ON None ON SPDT Side Slide 0.1A 28VAC 28VDC 0.4VA 10000Cycles Gull Wing SMD Tray", "https://componentsearchengine.com/Datasheets/1/SS312SAH4.pdf", "3.05 mm"
+END_PART
+
+END.

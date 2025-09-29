@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DMN3065LW-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-08-05:05:17)
+    (mountForm default
+        (footprintRef "SOT65P210X110-3N")
+        (spec "System")
+    )
+)

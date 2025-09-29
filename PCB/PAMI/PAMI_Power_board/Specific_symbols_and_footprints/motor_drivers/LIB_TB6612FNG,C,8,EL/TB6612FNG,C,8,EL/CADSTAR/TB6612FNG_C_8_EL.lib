@@ -1,0 +1,18 @@
+.TB6612FNG_C_8_EL :1 ;otor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC
+SOP65P760X160-24N
+*STM IC
+*NGS
+*PLB 1="AO1_1" 2="AO1_2" 3="PGND1_1" 4="PGND1_2" 5="AO2_1" 6="AO2_2" 7="BO2_1" 8="BO2_2" 9="PGND2_1" 10="PGND2_2" 11="BO1_1" 12="BO1_2" 13="VM2" 14="VM3" 15="PWMB" 16="BIN2" 17="BIN1" 18="GND" 19="STBY" 20="VCC" 21="AIN1" 22="AIN2" 23="PWMA" 24="VM1"
+*MXP 24
+*DFN TB6612FNG_C_8_EL
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TB6612FNG,C,8,EL)
+~!Mouser Part Number (757-TB6612FNGC8EL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/TB6612FNGC8EL?qs=rsevcuukUAy2UalRuv4E%2FQ%3D%3D)
+~!Arrow Part Number (TB6612FNG,C,8,EL)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tb6612fngc8el/toshiba?region=nac)
+~!Link Datasheet (http://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG)
+~!Height (1.6mm)
+~!3D_Model (TB6612FNG,C,8,EL)
+TB6612FNG_C_8_EL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

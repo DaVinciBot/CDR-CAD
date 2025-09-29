@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_703863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:13:14)
+    (utime 2023-03-07-11:13:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TCJB227M006R0070")
+)
+
+
+(pinAssign "ECS_703863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:13:14)
+    (utime 2023-03-07-11:13:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_703863")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TCJB227M006R0070")
+)
+
+
+(part "TCJB227M006R0070"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:13:14)
+    (utime 2023-03-07-11:13:14)
+    (packageRef "TCJB227M006R0070")
+    (pinAssignRef "ECS_703863")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "AVX - TCJB227M006R0070. - CAPACITOR, TANTALUM POLYMER, 220UF, 6.3V, 1210")
+    (property "Manufacturer_Name" "Kyocera AVX")
+    (property "Manufacturer_Part_Number" "TCJB227M006R0070")
+    (property "Mouser_Part_Number" "581-TCJB227M006R0070")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=581-TCJB227M006R0070")
+    (property "Arrow_Part_Number" "TCJB227M006R0070")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/tcjb227m006r0070/avx")
+    (property "Datasheet_Link" "http://datasheets.avx.com/TCJ.pdf")
+    (property "compAreaTopHeight" 2.1)
+)
+
+

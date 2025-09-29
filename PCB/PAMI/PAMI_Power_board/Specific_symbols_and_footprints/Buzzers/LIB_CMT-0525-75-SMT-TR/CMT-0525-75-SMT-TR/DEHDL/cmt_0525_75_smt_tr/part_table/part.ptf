@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CMT_0525_75_SMT_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Devices", "CMT-0525-75-SMT-TR" (!) = "", "CMT052575SMTTR", "Other", "490-CMT-0525-75SMTTR", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMT-0525-75-SMT-TR?qs=P1JMDcb91o4IJjUmKL6vpA%3D%3D", "", "", "Speakers & Transducers buzzer, 5 mm, 2.5 mm deep, M, 3 V, 75 dB, Surface Mount (SMT), Audio Transducer", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/202edec26f194914f30bb21e54dbec55.pdf", "2.8 mm"
+END_PART
+
+END.

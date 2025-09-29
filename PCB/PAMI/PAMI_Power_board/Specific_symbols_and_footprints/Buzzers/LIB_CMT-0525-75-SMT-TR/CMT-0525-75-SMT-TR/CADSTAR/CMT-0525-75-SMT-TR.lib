@@ -1,0 +1,18 @@
+.CMT-0525-75-SMT-TR :1 ;Speakers & Transducers buzzer, 5 mm, 2.5 mm deep, M, 3 V, 75 dB, Surface Mount (SMT), Audio Transducer
+CMT052575SMTTR
+*STM LS
+*NGS
+*PLB 1="+" 2="-" 3="NC"
+*MXP 3
+*DFN CMT-0525-75-SMT-TR
+~!Manufacturer_Name (CUI Devices)
+~!Manufacturer_Part_Number (CMT-0525-75-SMT-TR)
+~!Mouser Part Number (490-CMT-0525-75SMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMT-0525-75-SMT-TR?qs=P1JMDcb91o4IJjUmKL6vpA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/202edec26f194914f30bb21e54dbec55.pdf)
+~!Height (2.8mm)
+~!3D_Model (CMT-0525-75-SMT-TR)
+CMT-0525-75-SMT-TR
+1.1!U 2.1!U 3.1!U 

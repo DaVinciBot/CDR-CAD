@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TB6612FNG,C,8,EL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=24
+Version=4.1
+Released=2015-11-11 12:18:56
+Downloaded=2024-04-23 16:49:19
+3D=Y

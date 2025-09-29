@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IMB03ITS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-19-12:02:05)
+    (mountForm default
+        (footprintRef "IMB03ITS")
+        (spec "System")
+    )
+)

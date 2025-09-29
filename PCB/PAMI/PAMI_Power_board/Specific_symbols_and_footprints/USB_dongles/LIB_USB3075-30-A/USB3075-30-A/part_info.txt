@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB3075-30-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=11
+Version=1.5
+Released=2019-11-03 18:39:23
+Downloaded=2024-04-27 19:24:29
+3D=Y

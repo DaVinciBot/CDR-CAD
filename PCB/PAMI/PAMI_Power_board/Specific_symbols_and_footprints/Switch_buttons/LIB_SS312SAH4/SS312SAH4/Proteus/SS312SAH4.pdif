@@ -1,0 +1,165 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SS312SAH4"
+   (description "Switch Slide ON None ON SPDT Side Slide 0.1A 28VAC 28VDC 0.4VA 10000Cycles Gull Wing SMD Tray")
+   (family "SWI")
+   (package "SS312SAH4")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/SS312SAH4.pdf")
+   (attribute "Geometry.Height" "3.05mm")
+   (attribute "Manufacturer_Name" "NKK Switches")
+   (attribute "Manufacturer_Part_Number" "SS312SAH4")
+   (attribute "Mouser Part Number" "633-SS312SAH4")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/NKK-Switches/SS312SAH4?qs=uLkOX%2FxhRHP3U%2FCEVkPTBA%3D%3D")
+   (attribute "Arrow Part Number" "SS312SAH4")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/ss312sah4/nkk-switches?region=nac")
+   (gate
+    (symbol "SS312SAH4")
+    (pin "NO" 1 PS)
+    (pin "COM" 2 PS)
+    (pin "NC" 3 NC)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+   )
+  )
+  (symbol "SS312SAH4"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SS312SAH4"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.78 4.6)
+      (pt 2.22 4.6)
+      (pt 2.22 -4.6)
+      (pt -1.78 -4.6)
+      (pt -1.78 4.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.78 1.75)
+      (pt -4.32 1.75)
+      (pt -4.32 0.25)
+      (pt -1.78 0.25)
+      (pt -1.78 1.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.32 0.25)
+      (pt -1.78 0.25)
+      (pt -1.78 -1.75)
+      (pt -4.32 -1.75)
+      (pt -4.32 0.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.82 6.25)
+      (pt 4.82 6.25)
+      (pt 4.82 -6.25)
+      (pt -4.82 -6.25)
+      (pt -4.82 6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.52 -2.9)
+      (arc (pt 3.520 -2.900) (pt 3.420 -3.100) (pt 3.620 -2.900) (start 180.0) (sweep 90.0))
+      (pt 3.52 -3.1)
+      (arc (pt 3.520 -3.100) (pt 3.420 -3.100) (pt 3.620 -2.900) (start 180.0) (sweep -90.0))
+      (pt 3.52 -2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 2.22 -3)
+      (pt 2.22 -4.6)
+      (pt 1.22 -4.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 2.22 3)
+      (pt 2.22 4.6)
+      (pt 1.22 4.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.78 4.6)
+      (pt -1.78 -4.6))))
+   (leg 1 (pt 3.045 -2.000) (padstack 0))
+   (leg 2 (pt 3.045 0.000) (padstack 0))
+   (leg 3 (pt 3.045 2.000) (padstack 0))
+   (leg MP1 (pt -0.430 -4.900) (padstack 4))
+   (leg MP2 (pt -0.430 4.900) (padstack 5))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.550 0 0 0.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (square 1.700))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (square 1.700))
+   )
+   (model "SS312SAH4.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

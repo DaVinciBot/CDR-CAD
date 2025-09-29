@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IMB03ITS
+D Body Features: Product Weight .75 G | Product Weight .026 OZ | Insulation Special Features 2500V Initial Surge Withstand Voltage between Contacts & Coil | Contact Features: Contact Base Material AgNi | Contact Number of Poles 1 | Contact Current Rating (Max) 2 AMP | Contact Special Features Single Contact | Contact Arrangement 1 Form A (NO) | Contact Plating Material Gold | Contact Current Class 0  2 AMP | Dimensions: Product Length 10 MM | Height Class (Mechanical) 0  6 MM | Width Class (Mechanical) 
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98024&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1462041-5&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IMB03ITS'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "IMB03ITS" (!) = "", "IMB03ITS", "Other", "655-IMB03ITS", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Axicom/IMB03ITS?qs=3Rah4i%252BhyCFsQhVklEYOng%3D%3D", "", "", "Body Features: Product Weight .75 G | Product Weight .026 OZ | Insulation Special Features 2500V Initial Surge Withstand Voltage between Contacts & Coil | Contact Features: Contact Base Material AgNi | Contact Number of Poles 1 | Contact Current Rating (Max) 2 AMP | Contact Special Features Single Contact | Contact Arrangement 1 Form A (NO) | Contact Plating Material Gold | Contact Current Class 0  2 AMP | Dimensions: Product Length 10 MM | Height Class (Mechanical) 0  6 MM | Width Class (Mechanical) ", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98024&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1462041-5&DocFormat=pdf", "5.4 mm"
+END_PART
+
+END.

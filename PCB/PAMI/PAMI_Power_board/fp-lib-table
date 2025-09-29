@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Shottky_diode_BAT20JFILM")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/shottky_diodes/LIB_BAT20JFILM/BAT20JFILM/KiCad")(options "")(descr ""))
+  (lib (name "LEDs_ASCKCG00-NW5X5020302")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/LEDs/LIB_ASCKCG00-NW5X5020302/ASCKCG00-NW5X5020302/KiCad")(options "")(descr ""))
+  (lib (name "LDO_TLV76701DGNR")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/voltage_regulators/LIB_TLV76701DGNR/TLV76701DGNR/KiCad")(options "")(descr ""))
+)

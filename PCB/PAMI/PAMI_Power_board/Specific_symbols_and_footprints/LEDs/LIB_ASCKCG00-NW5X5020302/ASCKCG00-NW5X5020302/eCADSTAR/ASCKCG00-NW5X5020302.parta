@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_18869822"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-12-08-04:51:02)
+    (utime 2023-12-08-04:51:02)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ASCKCG00-NW5X5020302")
+)
+
+
+(pinAssign "ECS_18869822"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-12-08-04:51:02)
+    (utime 2023-12-08-04:51:02)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18869822")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ASCKCG00-NW5X5020302")
+)
+
+
+(part "ASCKCG00-NW5X5020302"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-12-08-04:51:02)
+    (utime 2023-12-08-04:51:02)
+    (packageRef "ASCKCG00-NW5X5020302")
+    (pinAssignRef "ECS_18869822")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Green 524nm LED Indication - Discrete 3.3V 0603 (1608 Metric)")
+    (property "Manufacturer_Name" "Avago Technologies")
+    (property "Manufacturer_Part_Number" "ASCKCG00-NW5X5020302")
+    (property "Mouser_Part_Number" "630-ASCKCG00NW5X5020")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASCKCG00-NW5X5020302?qs=OcgtsXO%252B3gsRJ%252BJUmBwdbA%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://docs.broadcom.com/doc/ASCKCx00-xxxxx0x0x02-DS")
+    (property "compAreaTopHeight" 0.75)
+)
+
+

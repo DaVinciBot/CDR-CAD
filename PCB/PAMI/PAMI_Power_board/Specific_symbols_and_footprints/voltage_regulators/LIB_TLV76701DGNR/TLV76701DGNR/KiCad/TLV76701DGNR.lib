@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TLV76701DGNR
+#/15369315/1371776/2.50/9/3/Integrated Circuit
+DEF TLV76701DGNR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "TLV76701DGNR" 1050 200 50 H V L CNN
+F2 "SOP65P490X110-9N" 1050 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/tlv767.pdf?ts=1634721803014&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTLV767" 1050 0 50 H I L CNN
+F4 "Linear Voltage Regulators Adjustable- and fixed-output, 1-A, 16-V, positive-voltage low-dropout (LDO) linear regulator 8-HVSSOP -40 to 125" 1050 -100 50 H I L CNN "Description"
+F5 "1.1" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TLV76701DGNR" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TLV76701DGNR" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV76701DGNR?qs=QNEnbhJQKvYlzprjZl22mQ%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TLV76701DGNR" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tlv76701dgnr/texas-instruments?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 P
+X FB 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X GND_1 4 0 -300 200 R 50 50 0 0 P
+X EP 9 600 -800 200 U 50 50 0 0 P
+X IN 8 1200 0 200 L 50 50 0 0 P
+X NC_2 7 1200 -100 200 L 50 50 0 0 P
+X GND_2 6 1200 -200 200 L 50 50 0 0 P
+X EN 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

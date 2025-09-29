@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DMN3065LW-7"
+   (description "Diodes Inc DMN3065LW-7 N-channel MOSFET Transistor, 4 A, 30 V, 3-Pin SOT-323")
+   (family "TRX")
+   (package "SOT65P210X110-3N")
+   (attribute "Datasheet Link" "https://www.diodes.com//assets/Datasheets/DMN3065LW.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "Diodes Incorporated")
+   (attribute "Manufacturer_Part_Number" "DMN3065LW-7")
+   (attribute "Mouser Part Number" "621-DMN3065LW7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN3065LW-7?qs=JtunSoW0QGGjls1HwhS7gQ%3D%3D")
+   (attribute "Arrow Part Number" "DMN3065LW-7")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/dmn3065lw-7/diodes-incorporated")
+   (gate
+    (symbol "DMN3065LW-7")
+    (pin "G" 1 PS)
+    (pin "S" 2 PS)
+    (pin "D" 3 PS)
+   )
+  )
+  (symbol "DMN3065LW-7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT65P210X110-3N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.75 1.35)
+      (pt 1.75 1.35)
+      (pt 1.75 -1.35)
+      (pt -1.75 -1.35)
+      (pt -1.75 1.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.625 1)
+      (pt 0.625 1)
+      (pt 0.625 -1)
+      (pt -0.625 -1)
+      (pt -0.625 1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.625 0.35)
+      (pt 0.025 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.15 1)
+      (pt 0.15 1)
+      (pt 0.15 -1)
+      (pt -0.15 -1)
+      (pt -0.15 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.5 1.15)
+      (pt -0.5 1.15))))
+   (leg 1 (pt -1 0.65) (padstack 0))
+   (leg 2 (pt -1 -0.65) (padstack 0))
+   (leg 3 (pt 1 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.5 1 0 0 0))
+   )
+   (model "DMN3065LW-7.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

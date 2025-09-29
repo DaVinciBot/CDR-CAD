@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=S2751-46R
+PartCategory=Test Point
+PackageCategory=Other
+PinCount=1
+Version=2.1
+Released=2019-02-07 17:05:23
+Downloaded=2024-04-27 00:22:34
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S2751_46R'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "S2751-46R" (!) = "", "S275146R", "Other", "855-S2751-46R", "https://www.mouser.co.uk/ProductDetail/Harwin/S2751-46R?qs=DaxoyN%2FvrebM3VuuS3MPNA%3D%3D", "", "", "Circuit Board Hardware - PCB SMT Mini Test Terminal, Reel", "https://cdn.harwin.com/pdfs/S2751R.pdf", "1.5 mm"
+END_PART
+
+END.

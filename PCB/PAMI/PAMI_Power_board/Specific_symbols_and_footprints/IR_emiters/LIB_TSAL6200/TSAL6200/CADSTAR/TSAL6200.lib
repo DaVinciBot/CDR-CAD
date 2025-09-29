@@ -1,0 +1,18 @@
+.TSAL6200 :1 ;Infrared LED 5mm 940nm 17deg Vishay TSAL6200 IR LED, 940nm, T-1 3/4 (5mm) Through Hole package
+TSAL6200
+*STM LED
+*NGS
+*PLB 1="A" 2="K"
+*MXP 2
+*DFN TSAL6200
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (TSAL6200)
+~!Mouser Part Number (782-TSAL6200)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TSAL6200?qs=GAjK1cmKyrlKVEUhArzG2A%3D%3D)
+~!Arrow Part Number (TSAL6200)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tsal6200/vishay?region=nac)
+~!Link Datasheet (http://www.vishay.com/docs/81010/tsal6200.pdf)
+~!Height (9mm)
+~!3D_Model (TSAL6200)
+TSAL6200
+1.1!U 2.1!U 

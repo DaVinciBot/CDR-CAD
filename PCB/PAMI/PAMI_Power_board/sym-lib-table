@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV76701DGNR")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/voltage_regulators/TLV76701DGNR.kicad_sym")(options "")(descr ""))
+  (lib (name "BAT20JFILM")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/shottky_diodes/LIB_BAT20JFILM/BAT20JFILM/KiCad/BAT20JFILM.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1-N16R8")(type "KiCad")(uri "${KIPRJMOD}/Specific_symbols_and_footprints/esp32/ESP32-S3-WROOM-1-N16R8.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=ASCKCG00-NW5X5020302
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-12-08 04:51:02
+Downloaded=2024-04-27 08:34:43
+3D=Y

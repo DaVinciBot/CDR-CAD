@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=PTS810SJM250SMTRLFS
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2018-05-01 11:47:33
+Downloaded=2024-04-25 07:04:25
+3D=N
